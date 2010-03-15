@@ -2,5 +2,5 @@
   "name": "narwhal-shim",
   "description": "Exposes a portion of the narwhal API to aide in porting narhwal-based CommonJS package to seed.  Currently contains only functions needed for packages that have been converted so far",
   
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
